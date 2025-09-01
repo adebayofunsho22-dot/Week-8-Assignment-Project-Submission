@@ -33,8 +33,8 @@ It showcases **1–1, 1–M, and M–M relationships**, data integrity with cons
 1. Install [MySQL 8.0+](https://dev.mysql.com/downloads/).  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/adebayofunsho22-dot>/Week-8-Assignment-Project-Submission.git
-   cd  https://github.com/<adebayofunsho22-dot>/<Week-8-Assignment-Project-Submission>.git
+   git clone https://github.com/adebayofunsho22-dot/Week-8-Assignment-Project-Submission.git
+   cd  https://github.com/adebayofunsho22-dot/Week-8-Assignment-Project-Submission.git
 
 ---
 
